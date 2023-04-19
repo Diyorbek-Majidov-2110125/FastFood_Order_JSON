@@ -1,0 +1,71 @@
+[
+    {
+        "Id": 1,
+        "Foods": [
+            "Lavash",
+            "Burger",
+            "Fanta"
+        ],
+        "Summ": 67000
+    },
+    {
+        "Id": 2,
+        "Foods": [
+            "Chicken",
+            "Fanta",
+            "Pizza"
+        ],
+        "Summ": 87000
+    },
+    {
+        "Id": 3,
+        "Foods": [
+            "Lavash",
+            "Burger"
+        ],
+        "Summ": 57000
+    },
+    {
+        "Id": 4,
+        "Foods": [
+            "Lavash",
+            "Donar",
+            "Pizza"
+        ],
+        "Summ": 119000
+    },
+    {
+        "Id": 5,
+        "Foods": [
+            "Chicken",
+            "Grill"
+        ],
+        "Summ": 63000
+    },
+    {
+        "Id": 6,
+        "Foods": [
+            "Burger",
+            "Hot-dog",
+            "Chicken"
+        ],
+        "Summ": 71000
+    },
+    {
+        "Id": 7,
+        "Foods": [
+            "Lavash",
+            "Burger"
+        ],
+        "Summ": 57000
+    },
+    {
+        "Id": 8,
+        "Foods": [
+            "Lavash",
+            "Burger",
+            "Hot-dog"
+        ],
+        "Summ": 73000
+    }
+]

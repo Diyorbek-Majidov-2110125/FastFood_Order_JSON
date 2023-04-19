@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "name": "Lavash",
+      "price": 34000
+    },
+    {
+      "id": 2,
+      "name": "Burger",
+      "price": 23000
+    },
+    {
+      "id": 3,
+      "name": "Hot-dog",
+      "price": 16000
+    },
+    {
+      "id": 4,
+      "name": "Chicken",
+      "price": 32000
+    },
+    {
+      "id": 5,
+      "name": "Grill",
+      "price": 31000
+    },
+    {
+      "id": 6,
+      "name": "Donar",
+      "price": 40000
+    },
+    {
+        "id": 7,
+        "name": "Coco Cola",
+        "price": 15000
+    },
+    {
+        "id": 8,
+        "name": "Fanta",
+        "price": 10000
+    },
+    {
+      "id": 9,
+      "name": "Pizza",
+      "price": 45000
+    },
+    {
+      "id":10,
+      "name": "KFC",
+      "price": 32000
+    }
+  ]
